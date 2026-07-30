@@ -33,7 +33,7 @@ Toutes les fiches suivent une structure commune :
 | Référence | Titre | Système / Version | Date |
 |---|---|---|---|
 | [proxmox-disk-partition-has-a-holder](proxmox/1.disk-partition-has-a-holder.md) | Impossible de wipe un disque : "has a holder (500)" | Proxmox 8.4.0 | 2026-07-30 |
-| [proxmox-disk-partition-has-a-holder](proxmox/2.virtualisation-bios-désactivée.md) | Erreur KVM : Virtualisation CPU désactivée | Proxmox 8.4.0 | 2026-07-30 |
+| [virtualisation-bios-désactivée.](proxmox/2.virtualisation-bios-désactivée.md) | Erreur KVM : Virtualisation CPU désactivée | Proxmox 8.4.0 | 2026-07-30 |
 
 
 
