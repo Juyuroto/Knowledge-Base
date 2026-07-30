@@ -35,6 +35,12 @@ Toutes les fiches suivent une structure commune :
 | [proxmox-disk-partition-has-a-holder](proxmox/1.disk-partition-has-a-holder.md) | Impossible de wipe un disque : "has a holder (500)" | Proxmox 8.4.0 | 2026-07-30 |
 | [virtualisation-bios-désactivée.](proxmox/2.virtualisation-bios-désactivée.md) | Erreur KVM : Virtualisation CPU désactivée | Proxmox 8.4.0 | 2026-07-30 |
 
+### Linux
+
+| Référence | Titre | Système / Version | Date |
+|---|---|---|---|
+| [stockage-insufisant](linux/1.stockage-insufisant.md) | Disque qui n'a pas pris la totalité de son stockage | Ubuntu 26.04 LTS | 2026-07-31 |
+
 
 
 
