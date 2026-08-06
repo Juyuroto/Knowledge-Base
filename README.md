@@ -34,6 +34,9 @@ Toutes les fiches suivent une structure commune :
 |---|---|---|---|
 | [proxmox-disk-partition-has-a-holder](proxmox/1.disk-partition-has-a-holder.md) | Impossible de wipe un disque : "has a holder (500)" | Proxmox 8.4.0 | 2026-07-30 |
 | [virtualisation-bios-désactivée.](proxmox/2.virtualisation-bios-désactivée.md) | Erreur KVM : Virtualisation CPU désactivée | Proxmox 8.4.0 | 2026-07-30 |
+| [zfs-stripe.](proxmox/3.zfs-stripe.md) | Fusion de 2 disques en ZFS Stripe (RAID0) | Proxmox 8.4.0 | 2026-08-06 |
+| [fix-err400-ram.](proxmox/4.fix-err400-ram.md) | Erreur 400 allow-ksm lors du changement de RAM | Proxmox 8.4.0 | 2026-08-06 |
+| [pve-no-subscription](proxmox/5.pve-no-subscription.md) | Erreur 401 Unauthorized lors des mises à jour APT | Proxmox 8.4.0 | 2026-08-06 |
 
 ### Linux
 
